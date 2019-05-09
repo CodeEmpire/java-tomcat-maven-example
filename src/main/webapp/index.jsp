@@ -6,7 +6,7 @@
 
 <p> This is change is to verify the Stage vs Production</p>
   
-<p> Add ne text to Servlet Project site</p>
+<p> Add new text to Servlet Project site</p>
 
 </body>
 </html>
